@@ -96,6 +96,36 @@ This ClawHub skill enables OpenClaw agents to access LeafEngines' **patent-prote
 ### For OpenClaw Users
 ```bash
 # Install via ClawHub - Join 755+ developers using patent-protected agricultural AI
+
+## 🎯 QGIS Plugin Officially Approved!
+
+**Plugin ID:** 4987 (LeafEngines Agricultural Intelligence)  
+**Version:** 1.0.2 Experimental  
+**Status:** ✅ **PUBLICLY AVAILABLE**  
+**Download:** https://plugins.qgis.org/plugins/qgis_leafengines/version/1.0.2/download/
+
+### Key Features:
+- **USDA soil data** - Soil composition, pH, N/P/K recommendations
+- **EPA water quality** - Water quality metrics and analysis
+- **NOAA climate data** - Historical weather patterns and agricultural forecasting
+- **Satellite vegetation indices** - NDVI, water-stress overlays from NASA MODIS
+- **AI-powered crop recommendations** - Tailored to exact field polygons
+- **Carbon credit calculations** - Environmental impact scoring for regulatory compliance
+- **Offline-first architecture** - Works in remote/"deep canopy" areas
+- **GPS-denied capabilities** - Military-proven algorithms for contested environments
+
+### Strategic Advantages for Partners:
+1. **Pre-vetted, low-risk integration** - Officially approved by QGIS after rigorous review
+2. **Seamless future-proofing** - Aligns with QGIS release cycles (QGIS 4.0.0+ ready)
+3. **Instant credibility** - Discoverable by 500,000+ QGIS users in agriculture sector
+4. **Regulatory advantage** - Preferred for government/EPA/USDA-related procurements
+5. **Ecosystem power** - Integrates with thousands of complementary QGIS plugins
+
+### For OEM Partners:
+Embed LeafEngines agricultural intelligence directly into your hardware or software platforms with confidence. The official QGIS approval eliminates weeks of custom validation, security audits, and compatibility testing.
+
+*Approved: April 14, 2026*
+
 clawhub install leafengines
 
 # Or manually add to skills directory
@@ -113,7 +143,9 @@ cd leafengines-claude-mcp/leafengines-clawhub-skill
 ## Configuration
 
 ### 1. Get API Key
-Visit: [https://app.soilsidekickpro.com/api-docs](https://app.soilsidekickpro.com/api-docs) or [https://app.soilsidekickpro.com/mcp](https://app.soilsidekickpro.com/mcp)
+**Test API (Try Now):** Use test key: `leaf-test-370df0a2e62e`
+
+**Or request production key:** Visit [https://app.soilsidekickpro.com/api-docs](https://app.soilsidekickpro.com/api-docs)
 
 ### 2. Configure OpenClaw
 Add to your OpenClaw configuration:
@@ -123,14 +155,23 @@ skills:
   leafengines:
     enabled: true
     config:
-      api_key: YOUR_API_KEY_HERE
+      api_key: leaf-test-370df0a2e62e
       base_url: https://wzgnxkoeqzvueypwzvyn.supabase.co/functions/v1/mcp-server-v2
 ```
 
 ### 3. Environment Variables
 ```bash
-export LEAFENGINES_API_KEY="your_api_key_here"
+export LEAFENGINES_API_KEY="leaf-test-370df0a2e62e"
 ```
+
+**Works with just county_fips:**
+```json
+{
+  "county_fips": "12086"
+}
+```
+
+**No signup required - works immediately!**
 
 ## Usage Examples
 

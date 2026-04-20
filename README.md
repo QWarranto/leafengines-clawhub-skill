@@ -304,3 +304,28 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for det
 ---
 
 🌱 **Happy farming with AI!** Powered by TurboQuant technology.
+## 💳 Pricing for ClawHub Skill
+
+**Subscription Plans (Recommended):**
+
+| Region | Starter (Monthly) | Pro (Monthly) | Local Payment Methods |
+|--------|-------------------|---------------|----------------------|
+| **United States** | $49 | $149 | Card, Apple Pay, Google Pay, Affirm |
+| **European Union** | €45 (VAT incl.) | €135 (VAT incl.) | Klarna (DE), iDEAL (NL), EPS (AT), Apple/Google Pay |
+| **United Kingdom** | £38 (VAT incl.) | £115 (VAT incl.) | Afterpay/Clearpay, Apple/Google Pay |
+| **Australia** | AU$75 (GST incl.) | AU$225 (GST incl.) | Afterpay, Apple/Google Pay |
+
+**Pay-As-You-Go (Commoditized Pricing):**
+- **Exclusive:** $0.50/request
+- **Proprietary:** $0.25/request  
+- **Enhanced:** $0.10/request
+- **Commoditized:** $0.01/request
+
+**Why Subscription is Better:**
+- Predictable monthly costs
+- Local payment methods available
+- Tax-inclusive pricing
+- Better value for regular use
+
+**Free Testing:** Skill includes test key `leaf-test-370df0a2e62e`
+**Founder Pricing:** First 100 customers get lifetime pricing lock

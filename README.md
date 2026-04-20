@@ -86,6 +86,23 @@ This ClawHub skill enables OpenClaw agents to access LeafEngines' **patent-prote
 4. **Environmental Impact** - Sustainability and carbon footprint analysis
 5. **TurboQuant Capabilities** - FREE hardware optimization check
 
+
+## 🆓 Free Tier - Test Immediately
+
+**Zero friction to try:** No email, no credit card, no commitment.
+
+### **Two Ways to Test Free:**
+1. **Test Key:** `leaf-test-370df0a2e62e` (works immediately)
+2. **Free Tier Header:** `x-free-tier: true` (no API key needed)
+
+### **What You Get:**
+- Basic soil analysis with county FIPS codes
+- USDA soil data access
+- Limited requests for evaluation
+- Perfect for prototyping and testing
+
+**No risk, no commitment.** Test before buying.
+
 ### 💰 **Pricing Tiers**
 - **FREE Tier:** `turbo_quant_capabilities` tool (no API key required) - **Used by 755+ developers**
 - **Paid Tiers:** From $0.001/call for patent-protected soil analysis, weather forecasts, etc.

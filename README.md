@@ -113,7 +113,19 @@ cd leafengines-claude-mcp/leafengines-clawhub-skill
 ## Configuration
 
 ### 1. Get API Key
-Visit: [https://app.soilsidekickpro.com/api-docs](https://app.soilsidekickpro.com/api-docs) or [https://app.soilsidekickpro.com/mcp](https://app.soilsidekickpro.com/mcp)
+#### 1. Get API Key
+Immediate access with test key: leaf-test-370df0a2e62e
+
+✅ Try It Now (No Waiting):
+Use test key: leaf-test-370df0a2e62e
+Immediate access to several key features
+No forms, no waiting, no approval
+Works across all platforms
+**Test key gives you:**n- Full soil analysis capabilitiesn- Crop recommendationsn- All free tier features
+
+For premium access
+Visit: [https://soilsidekickpro.com/api-docs](https://soilsidekickpro.com/api-docs)
+or [https://app.soilsidekickpro.com/mcp](https://app.soilsidekickpro.com/mcp)
 
 ### 2. Configure OpenClaw
 Add to your OpenClaw configuration:

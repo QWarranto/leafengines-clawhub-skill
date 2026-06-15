@@ -9,7 +9,7 @@ metadata: {"openclaw":{"emoji":"🌱","os":["darwin","linux"],"requires":{"bins"
 
 # LeafEngines MCP Server v1.2.1
 
-**Agricultural Intelligence with Free Tier & Founder Pricing** for Claude and OpenClaw. **1,092+ downloads** since March 29.
+**Agricultural Intelligence with Free Tier & Metered Pricing** for Claude and OpenClaw. **1,092+ downloads** since March 29.
 
 ## ⚡ Get Started Now
 

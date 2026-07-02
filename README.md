@@ -1,6 +1,8 @@
 # LeafEngines ClawHub Skill
 
-🌱 **Patent-Protected Agricultural Intelligence for OpenClaw Agents** - The only MCP server with patented algorithms. 755+ developers agree.
+> 🏆 **Global Startup Awards 2026 — North America Regional Nominee**
+
+🌱 **Patent-Protected Agricultural Intelligence for OpenClaw Agents** — **A-Excellent Verified** on MCP World (June 2026) • QGIS Plugin approved (ID 4987) • SDK v3.0 hardware-ready • 750+ developers globally.
 
 ## 🎯 Strategic Vision: From AgTech to Universal Infrastructure
 
